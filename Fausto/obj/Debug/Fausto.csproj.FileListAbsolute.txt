@@ -1,0 +1,34 @@
+C:\Users\eliana.becerra\Desktop\Fausto\Fausto\bin\Debug\Fausto.exe.config
+C:\Users\eliana.becerra\Desktop\Fausto\Fausto\bin\Debug\Fausto.exe
+C:\Users\eliana.becerra\Desktop\Fausto\Fausto\bin\Debug\Fausto.pdb
+C:\Users\eliana.becerra\Desktop\Fausto\Fausto\obj\Debug\Fausto.exe
+C:\Users\eliana.becerra\Desktop\Fausto\Fausto\obj\Debug\Fausto.pdb
+C:\Users\jesus.varelac\Desktop\Fausto\Fausto\bin\Debug\Fausto.exe.config
+C:\Users\jesus.varelac\Desktop\Fausto\Fausto\bin\Debug\Fausto.exe
+C:\Users\jesus.varelac\Desktop\Fausto\Fausto\bin\Debug\Fausto.pdb
+C:\Users\jesus.varelac\Desktop\Fausto\Fausto\obj\Debug\Fausto.exe
+C:\Users\jesus.varelac\Desktop\Fausto\Fausto\obj\Debug\Fausto.pdb
+C:\Users\eliana.becerra\Desktop\Fausto-matriz\Fausto\bin\Debug\Fausto.exe.config
+C:\Users\eliana.becerra\Desktop\Fausto-matriz\Fausto\bin\Debug\Fausto.exe
+C:\Users\eliana.becerra\Desktop\Fausto-matriz\Fausto\bin\Debug\Fausto.pdb
+C:\Users\eliana.becerra\Desktop\Fausto-matriz\Fausto\obj\Debug\Fausto.exe
+C:\Users\eliana.becerra\Desktop\Fausto-matriz\Fausto\obj\Debug\Fausto.pdb
+C:\Users\eliana.becerra\Desktop\Fausto-matriz\Fausto\obj\Debug\Fausto.csprojResolveAssemblyReference.cache
+C:\Users\eliana.becerra\Desktop\Fausto-matriz22\Fausto\bin\Debug\Fausto.exe.config
+C:\Users\eliana.becerra\Desktop\Fausto-matriz22\Fausto\bin\Debug\Fausto.exe
+C:\Users\eliana.becerra\Desktop\Fausto-matriz22\Fausto\bin\Debug\Fausto.pdb
+C:\Users\eliana.becerra\Desktop\Fausto-matriz22\Fausto\obj\Debug\Fausto.exe
+C:\Users\eliana.becerra\Desktop\Fausto-matriz22\Fausto\obj\Debug\Fausto.pdb
+C:\Users\eliana.becerra\Desktop\Fausto-matriz33\Fausto\bin\Debug\Fausto.exe.config
+C:\Users\eliana.becerra\Desktop\Fausto-matriz33\Fausto\bin\Debug\Fausto.exe
+C:\Users\eliana.becerra\Desktop\Fausto-matriz33\Fausto\bin\Debug\Fausto.pdb
+C:\Users\eliana.becerra\Desktop\Fausto-matriz33\Fausto\obj\Debug\Fausto.exe
+C:\Users\eliana.becerra\Desktop\Fausto-matriz33\Fausto\obj\Debug\Fausto.pdb
+C:\Users\eliana.becerra\Desktop\Fausto-matriz44\Fausto\bin\Debug\Fausto.exe.config
+C:\Users\eliana.becerra\Desktop\Fausto-matriz44\Fausto\bin\Debug\Fausto.exe
+C:\Users\eliana.becerra\Desktop\Fausto-matriz44\Fausto\bin\Debug\Fausto.pdb
+C:\Users\eliana.becerra\Desktop\Fausto-matriz44\Fausto\obj\Debug\Fausto.exe
+C:\Users\eliana.becerra\Desktop\Fausto-matriz44\Fausto\obj\Debug\Fausto.pdb
+C:\Users\eliana.becerra\Desktop\Practica - 1\Fausto\bin\Debug\Fausto.exe.config
+C:\Users\eliana.becerra\Desktop\Practica - 1\Fausto\obj\Debug\Fausto.exe
+C:\Users\eliana.becerra\Desktop\Practica - 1\Fausto\obj\Debug\Fausto.pdb
