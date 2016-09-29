@@ -1,0 +1,5 @@
+C:\Users\Eliana Becerra\Desktop\Etiquetas\Etiqueta\bin\Debug\Etiqueta.exe
+C:\Users\Eliana Becerra\Desktop\Etiquetas\Etiqueta\bin\Debug\Etiqueta.pdb
+C:\Users\Eliana Becerra\Desktop\Etiquetas\Etiqueta\obj\x86\Debug\Etiqueta.exe
+C:\Users\Eliana Becerra\Desktop\Etiquetas\Etiqueta\obj\x86\Debug\Etiqueta.pdb
+C:\Users\Eliana Becerra\Desktop\Etiquetas\Etiqueta\obj\x86\Debug\Etiqueta.csprojResolveAssemblyReference.cache
